@@ -4,3 +4,8 @@ LABEL_MEANING = [
     "객관: 1 / 주관: 0",
     "이성: 1 / 감정: 0",
 ]
+
+질의 내용
+  "abstract": "Is this sentence abstract or concrete? Respond with 1 if abstract, 0 if concrete.",
+  "objective": "Is this sentence objective or subjective? Respond with 1 if objective, 0 if subjective.",
+  "rational": "Is this sentence rational or emotional? Respond with 1 if rational, 0 if emotional."
